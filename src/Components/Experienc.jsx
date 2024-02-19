@@ -58,6 +58,14 @@ const Experience = () => {
               in a 70% more productive to the organization
             </p>
           </div>
+          <div className="bg-white p-6 rounded-lg shadow-md">
+            <h3 className="text-lg font-semibold mb-2">IT Engineer</h3>
+            <b>Sterling Infoways | Gurgaon Haryana|2016 - 2019</b>
+            <p>• Designed and implemented a network architecture that improved system performance by 40%</p>
+            <p>• Developed a backup and disaster recovery plan that enabled the company to recover from a system outage in less than an hour and no data loss security</p>
+            <p>• Installed and configured virtualization technology(VMWare) that increased server utilization by 80%</p>
+            <p>• Installed, configured, and maintained servers, routers, firewalls, and other network devices that extended the company's productivity by 30% more</p>
+            </div>
           {/* Add more job experience cards as needed */}
         </div>
       </div>

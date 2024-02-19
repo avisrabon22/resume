@@ -1,7 +1,9 @@
+import Education from './Components/Education';
 import Experience from './Components/Experienc';
 import Header from './Components/Header';
 import Projects from './Components/Projects';
 import Skills from './Components/Skills';
+import WebLinks from './Components/Weblink';
 
 
 
@@ -13,6 +15,8 @@ function App() {
       <Skills />
       <Projects/>
       <Experience />
+      <Education />
+      <WebLinks />
 </div>
 </>
   );
