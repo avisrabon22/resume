@@ -19,7 +19,7 @@ const Education = () => {
           <h3 className="text-lg font-semibold mb-2">
              Software Development
           </h3>
-          <b>Scaler Academy in April 2023</b>
+          <b>Scaler Academy in December 2023</b>
       </div>
     </section>
   );
