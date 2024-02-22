@@ -7,7 +7,7 @@ const Header = () => {
     <header className="bg-gray-800 text-white py-4">
       <div className="container mx-auto">
         <h1 className="p-1 text-3xl font-bold">Avijit Maity</h1>
-        <p className="text-lg p-1">SDE</p>
+        <p className="text-lg p-1">SDE / Web Developer</p>
          <p className="p-1">avisrabon22@gmail.com</p>
          <p className="p-1">7289083782 , 7363089888</p>
         <nav className="mt-4">
