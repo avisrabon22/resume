@@ -23,6 +23,8 @@ const Skills = () => {
           <div>
             <h3 className="text-lg font-semibold mb-2">Backend</h3>
             <ul>
+              <li>C</li>
+              <li>C++</li>
               <li>Java</li>
               <li>Spring Boot</li>
               <li>MySQL</li>
